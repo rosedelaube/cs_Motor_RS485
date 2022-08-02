@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:cs_Motor_RS485"
+        xmlns:views="clr-namespace:cs_Motor_RS485.Views"
         mc:Ignorable="d"
         Title="cs_Motor_RS485" Height="450" Width="800">
     <Grid>
@@ -12,27 +13,29 @@
             <ColumnDefinition Width="2*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-        <GroupBox Grid.Column="0" x:Name="Log_GroupBox">
-            <GroupBox.Header>
-                <Grid>
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="*"/>
-                        <ColumnDefinition Width="*"/>
-                    </Grid.ColumnDefinitions>
-                    <Label Grid.Column="0" Content="Log"/>
-                    <Button Grid.Column="1" Content="   clear   " Background="White">
-                        <Button.Resources>
-                            <Style TargetType="Border">
-                                <Setter Property="CornerRadius" Value="5"/>
-                            </Style>
-                        </Button.Resources>
-                    </Button>
-                </Grid>
-            </GroupBox.Header>
-            <ScrollViewer x:Name="Log_Scroll" HorizontalAlignment="Left">
-                <ItemsControl x:Name="Log" HorizontalContentAlignment="Right"/>
-            </ScrollViewer>
-        </GroupBox>
+        <Grid Grid.Column="0">
+            <GroupBox x:Name="Log_GroupBox">
+                <GroupBox.Header>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column="0" Content="Log"/>
+                        <Button Grid.Column="1" Content="   clear   " Background="White">
+                            <Button.Resources>
+                                <Style TargetType="Border">
+                                    <Setter Property="CornerRadius" Value="5"/>
+                                </Style>
+                            </Button.Resources>
+                        </Button>
+                    </Grid>
+                </GroupBox.Header>
+                <ScrollViewer x:Name="Log_Scroll" HorizontalAlignment="Left">
+                    <ItemsControl x:Name="Log_view" HorizontalContentAlignment="Right"/>
+                </ScrollViewer>
+            </GroupBox>
+        </Grid>
         <Grid Grid.Column="1">
             <Grid.RowDefinitions>
                 <RowDefinition Height="*"/>
