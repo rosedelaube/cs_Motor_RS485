@@ -5,3 +5,8 @@
 
 - RS485 통신
 - 모터 : 컴퓨터 = 1:1
+
+- ui design
+
+
+![cs_Motor_ui_design_2022_08_02](./cs_Motor_ui_design_2022_08_02.png)
