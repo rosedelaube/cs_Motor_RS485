@@ -9,6 +9,6 @@
 
 -2022.08.02-
 
-ui 기본 틀 완성
-WPF usercontrol 공부필요
-1:N 모터제어 원리 공부
+# ui 기본 틀 완성
+# WPF usercontrol 공부필요
+# 1:N 모터제어 원리 공부
