@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MBD_\\Desktop\\visual_studio_project\\test_2\\cs_Motor_RS485\\cs_Motor_RS485\\cs_Motor_RS485.csproj",
+      "projectUniqueName": "C:\\Users\\MBD_\\Desktop\\visual_studio_project\\test_2\\모터 프로젝트\\cs_Motor_RS485\\cs_Motor_RS485\\cs_Motor_RS485.csproj",
       "projectName": "cs_Motor_RS485",
-      "projectPath": "C:\\Users\\MBD_\\Desktop\\visual_studio_project\\test_2\\cs_Motor_RS485\\cs_Motor_RS485\\cs_Motor_RS485.csproj",
+      "projectPath": "C:\\Users\\MBD_\\Desktop\\visual_studio_project\\test_2\\모터 프로젝트\\cs_Motor_RS485\\cs_Motor_RS485\\cs_Motor_RS485.csproj",
       "packagesPath": "C:\\Users\\MBD_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MBD_\\Desktop\\visual_studio_project\\test_2\\cs_Motor_RS485\\cs_Motor_RS485\\obj\\",
+      "outputPath": "C:\\Users\\MBD_\\Desktop\\visual_studio_project\\test_2\\모터 프로젝트\\cs_Motor_RS485\\cs_Motor_RS485\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

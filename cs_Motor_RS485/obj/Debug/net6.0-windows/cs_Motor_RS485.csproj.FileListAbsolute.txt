@@ -30,3 +30,34 @@ C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485
 C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Motor_connection.baml
 C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Run_Stop.baml
 C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\state_set.baml
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\cs_Motor_RS485.csproj.AssemblyReference.cache
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Button.g.cs
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Current_State.g.cs
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Motor_connection.g.cs
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Run_Stop.g.cs
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\state_set.g.cs
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\cs_Motor_RS485_MarkupCompile.cache
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\cs_Motor_RS485_MarkupCompile.lref
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\cs_Motor_RS485.dll
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\refint\cs_Motor_RS485.dll
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\cs_Motor_RS485.pdb
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\bin\Debug\net6.0-windows\cs_Motor_RS485.exe
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\bin\Debug\net6.0-windows\cs_Motor_RS485.deps.json
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\bin\Debug\net6.0-windows\cs_Motor_RS485.runtimeconfig.json
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\bin\Debug\net6.0-windows\cs_Motor_RS485.dll
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\bin\Debug\net6.0-windows\cs_Motor_RS485.pdb
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Button.baml
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Current_State.baml
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Motor_connection.baml
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Run_Stop.baml
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\state_set.baml
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\cs_Motor_RS485.g.resources
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\cs_Motor_RS485.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\cs_Motor_RS485.AssemblyInfoInputs.cache
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\cs_Motor_RS485.AssemblyInfo.cs
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\cs_Motor_RS485.csproj.CoreCompileInputs.cache
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\cs_Motor_RS485.genruntimeconfig.cache
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\모터 프로젝트\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\ref\cs_Motor_RS485.dll

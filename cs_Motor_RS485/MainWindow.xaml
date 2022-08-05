@@ -48,7 +48,7 @@
                     <Label Content="Motor connection"/>
                 </GroupBox.Header>
             </GroupBox>
-            <GroupBox Grid.Row="1" x:Name="State_Set_GroupBox" Content=Views>
+            <GroupBox Grid.Row="1" x:Name="State_Set_GroupBox" >
                 <GroupBox.Header>
                     <Label Content="State set"/>
                 </GroupBox.Header>
