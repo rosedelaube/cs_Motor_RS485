@@ -25,13 +25,16 @@ namespace cs_Motor_RS485
         public MainWindow()
         {
             InitializeComponent();
-            test();
+            InitializeSubComponent();
         }
 
-        Views.Button brake = new Views.Button();
+        
 
-        private void test()
+        private void InitializeSubComponent()
         {
+            Views.Motor_connection motor_Connection = new Views.Motor_connection();
+            Views.Button brake = new Views.Button();
+            Motor_Connection_GroupBox.Content = motor_Connection;
             Brake_GroupBox.Content = brake;
         }
     }

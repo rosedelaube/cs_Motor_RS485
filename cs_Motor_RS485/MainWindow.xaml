@@ -48,10 +48,11 @@
                     <Label Content="Motor connection"/>
                 </GroupBox.Header>
             </GroupBox>
-            <GroupBox Grid.Row="1" x:Name="State_Set_GroupBox">
+            <GroupBox Grid.Row="1" x:Name="State_Set_GroupBox" Content=Views>
                 <GroupBox.Header>
                     <Label Content="State set"/>
                 </GroupBox.Header>
+                
             </GroupBox>
             <GroupBox Grid.Row="2" x:Name="Run_Stop_GroupBox">
                 <GroupBox.Header>

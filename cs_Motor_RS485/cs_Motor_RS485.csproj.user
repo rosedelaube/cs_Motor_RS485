@@ -10,12 +10,36 @@
     <Compile Update="Views\Button.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\Current_State.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Motor_connection.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Run_Stop.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\state_set.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\Button.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Current_State.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Motor_connection.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Run_Stop.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\state_set.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

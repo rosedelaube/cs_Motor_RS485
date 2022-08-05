@@ -22,3 +22,11 @@ C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485
 C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Button.g.cs
 C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Button.baml
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Current_State.g.cs
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Motor_connection.g.cs
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Run_Stop.g.cs
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\state_set.g.cs
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Current_State.baml
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Motor_connection.baml
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\Run_Stop.baml
+C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\obj\Debug\net6.0-windows\Views\state_set.baml
