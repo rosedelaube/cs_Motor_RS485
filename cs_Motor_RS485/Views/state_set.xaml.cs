@@ -12,27 +12,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using cs_Motor_RS485.Views;
-using cs_Motor_RS485;
 
-namespace cs_Motor_RS485
+namespace cs_Motor_RS485.Views
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// state_set.xaml에 대한 상호 작용 논리
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class state_set : UserControl
     {
-        public MainWindow()
+        public state_set()
         {
             InitializeComponent();
-            test();
-        }
-
-        Views.Button brake = new Views.Button();
-
-        private void test()
-        {
-            Brake_GroupBox.Content = brake;
         }
     }
 }

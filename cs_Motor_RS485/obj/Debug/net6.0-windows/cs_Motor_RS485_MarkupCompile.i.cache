@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\MBD_\Desktop\visual_studio_project\test_2\cs_Motor_RS485\cs_Motor_RS485\App.xaml
-11407045341
+61498376434
 
-5676538843
+10-595950926
 194-1951243044
-MainWindow.xaml;
+MainWindow.xaml;Views\Button.xaml;Views\Current_State.xaml;Views\Motor_connection.xaml;Views\Run_Stop.xaml;Views\state_set.xaml;
 
 True
 

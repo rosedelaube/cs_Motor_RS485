@@ -7,22 +7,7 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="view\Brake.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="view\Current_State.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="view\Log.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="view\Motor_connection.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="view\Run_Stop.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="view\State_set.xaml.cs">
+    <Compile Update="Views\Button.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -30,22 +15,7 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="view\Brake.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="view\Current_State.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="view\Log.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="view\Motor_connection.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="view\Run_Stop.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="view\State_set.xaml">
+    <Page Update="Views\Button.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
